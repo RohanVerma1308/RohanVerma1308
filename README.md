@@ -66,6 +66,7 @@ I'm a passionate B.Tech student specializing in **Artificial Intelligence** and 
 
 ---
 
-<br clear="both">
+<p align="center">
+  <img src="https://github.com/RohanVerma1308/RohanVerma1308/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/output/snake.svg" alt="Snake animation" />
