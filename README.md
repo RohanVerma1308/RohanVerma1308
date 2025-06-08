@@ -48,7 +48,12 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanverma1308&" alt="rohanverma1308" /></p>
 
 
-![Snake animation - dark](https://github.com/rohanverma1308/rohanverma1308/blob/output/github-contribution-grid-snake-dark.svg?raw=true#gh-dark-mode-only)
+### 🐍 Contribution Snake Animation
+
+![GitHub Snake Dark](https://github.com/rohanverma1308/rohanverma1308/blob/output/github-snake-dark.svg?raw=true#gh-dark-mode-only)
+
+![Ocean Snake GIF](https://github.com/rohanverma1308/rohanverma1308/blob/output/ocean.gif)
+
 
 
 
