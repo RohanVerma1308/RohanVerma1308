@@ -52,7 +52,6 @@
 
 ![GitHub Snake Dark](https://github.com/rohanverma1308/rohanverma1308/blob/output/github-snake-dark.svg?raw=true#gh-dark-mode-only)
 
-![Ocean Snake GIF](https://github.com/rohanverma1308/rohanverma1308/blob/output/ocean.gif)
 
 
 
