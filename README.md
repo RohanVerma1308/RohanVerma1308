@@ -6,9 +6,9 @@
 </p>
 
 
-<img align="right" alt="Coding" width="240" src="Linux Penguin.gif">
+<img align="right" alt="Coding" width="200" src="Linux Penguin.gif">
 
-<h4 align="center">A Computer Science Engineering (AI & DS) student from India.</h4>
+<h3 align="center">A Computer Science Engineering (AI & DS) student from India.</h3>
 
 - 🔭 I’m currently working on **FinTrack- Expense Tracker Web App**
 
