@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rohan Verma</h1>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rohanverma1308&label=Profile%20views&color=0e75b6&style=flat" alt="rohanverma1308" />
+  <img src="https://komarev.com/ghpvc/?username=rohanverma1308&label=Profile%20views&color=0e75b6&style=flat" alt="rohanverma1308"/>
 </p>
 
 
