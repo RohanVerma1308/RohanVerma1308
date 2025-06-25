@@ -6,7 +6,7 @@
 </p>
 
 
-<img align="right" alt="Coding" width="150" src="Linux Penguin.gif">
+<img align="right" alt="Coding" width="240" src="Linux Penguin.gif">
 
 <h3 align="center">A Computer Science Engineering (AI & DS) student from India.</h3>
 
@@ -41,10 +41,15 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohanverma1308&show_icons=true&locale=en&layout=compact" alt="rohanverma1308" /></p>
 
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohanverma1308&show_icons=true&locale=en" alt="rohanverma1308" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanverma1308&" alt="rohanverma1308" /></p>
-
+<p>
+  <img align="center" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=rohanverma1308&count_private=true&date_format=M%20j[,]%20Y" 
+       alt="rohanverma1308 streak stats" />
+</p>
 
 
 
